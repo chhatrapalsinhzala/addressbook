@@ -24,5 +24,5 @@
 -> Project include CRUD operation for the address app,
 
 -> To retrieve the addresses that are within a given distance and location coordinates we can call "address/get-nearby-addresses" GET api
-    (Note: "distance" parameter is considered in Kilometers e.g : 50 stands for 50 kilometers)
+    (Note: "distance" parameter is considered in Kilometers, e.g : 50 stands for 50 kilometers)
 
